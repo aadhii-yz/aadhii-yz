@@ -1,7 +1,8 @@
 -  Hi, I’m **Adithya**
--  I’m a self-thought programmer and a student.
--  Proficient languages and frameworks : **Pyhton**, Flask, Javascript, **React**, Bash,.. 
--  I’m currently exploring **web-development**, **networking**,..
+-  I’m a self-thought programmer and a student persuing a Bachelor's degree.
+-  I'm a **Linux** enthusiast.
+-  Proficient languages : **C**, **Go**, **Bash**, Pyhton, Javascript,..
+-  I’m currently exploring **CLI/TUI apps**, Backend with Go, Networking,..
 
 <!---
 aadhii-yz/aadhii-yz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
